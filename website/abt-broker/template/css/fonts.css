@@ -1,0 +1,51 @@
+@font-face {
+  font-family: Roboto-Regular;
+  src: url('../fonts/Roboto-Regular.eot') format('embedded-opentype'),
+  url('../fonts/Roboto-Regular.woff') format('woff'),
+  url('../fonts/Roboto-Regular.ttf')  format('truetype'),
+  url('../fonts/Roboto-Regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Roboto-Medium;
+  src: url('../fonts/Roboto-Medium.eot') format('embedded-opentype'),
+  url('../fonts/Roboto-Medium.woff') format('woff'),
+  url('../fonts/Roboto-Medium.ttf')  format('truetype'),
+  url('../fonts/Roboto-Medium.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Roboto-Black;
+  src: url('../fonts/Roboto-Black.eot') format('embedded-opentype'),
+  url('../fonts/Roboto-Black.woff') format('woff'),
+  url('../fonts/Roboto-Black.ttf')  format('truetype'),
+  url('../fonts/Roboto-Black.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Roboto-Bold;
+  src: url('../fonts/Roboto-Bold.eot') format('embedded-opentype'),
+  url('../fonts/Roboto-Bold.woff') format('woff'),
+  url('../fonts/Roboto-Bold.ttf')  format('truetype'),
+  url('../fonts/Roboto-Bold.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: FontAwesome;
+  src: url('../fonts/fontawesome.eot') format('embedded-opentype'),
+  url('../fonts/fontawesome.woff') format('woff'),
+  url('../fonts/fontawesome.ttf')  format('truetype'),
+  url('../fonts/fontawesome.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: Panton-BlackCaps;
+  src: url('../fonts/Panton-BlackCaps.otf');
+  font-weight: normal;
+  font-style: normal;
+}
